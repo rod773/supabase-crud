@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rod773/supabase-crud/static/css/main.c8770f45.css",
+    "main.js": "/rod773/supabase-crud/static/js/main.ee5c095c.js",
+    "index.html": "/rod773/supabase-crud/index.html",
+    "main.c8770f45.css.map": "/rod773/supabase-crud/static/css/main.c8770f45.css.map",
+    "main.ee5c095c.js.map": "/rod773/supabase-crud/static/js/main.ee5c095c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8770f45.css",
+    "static/js/main.ee5c095c.js"
+  ]
+}
