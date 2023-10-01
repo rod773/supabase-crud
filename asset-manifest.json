@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rod773/supabase-crud/static/css/main.22f1ba61.css",
-    "main.js": "/rod773/supabase-crud/static/js/main.8f448e12.js",
-    "index.html": "/rod773/supabase-crud/index.html",
-    "main.22f1ba61.css.map": "/rod773/supabase-crud/static/css/main.22f1ba61.css.map",
-    "main.8f448e12.js.map": "/rod773/supabase-crud/static/js/main.8f448e12.js.map"
+    "main.css": "./rod773/supabase-crud/static/css/main.22f1ba61.css",
+    "main.js": "./rod773/supabase-crud/static/js/main.8f448e12.js",
+    "index.html": "./rod773/supabase-crud/index.html",
+    "main.22f1ba61.css.map": "./rod773/supabase-crud/static/css/main.22f1ba61.css.map",
+    "main.8f448e12.js.map": "./rod773/supabase-crud/static/js/main.8f448e12.js.map"
   },
   "entrypoints": [
     "static/css/main.22f1ba61.css",
